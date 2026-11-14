@@ -1,0 +1,7 @@
+/dist/
+*.exe
+*.dll
+*.pdb
+*.part
+/백업 기록/
+/iPhone 사진 백업/
